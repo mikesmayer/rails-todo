@@ -19,4 +19,8 @@
    * Use what you know to write an ActiveRecord migration
 * Create a todo controller and appropriate views
 * Commit frequently
+
+** Setup! ** 
 * We've already added a basic rails app (by using `rails new` ...)  and configured it for use with postgres
+* Of course, run `bundle` to setup all the gems
+* To create the database, run `rake db:create` 
