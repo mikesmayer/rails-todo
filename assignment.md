@@ -2,7 +2,7 @@
 
 **Objectives:**
 
-* Practice creating a rails CRUD todo using our Dawgs app as a guide. 
+* Practice creating a rails CRUD todo using our [Dawgs](https://github.com/tibbon/WDI_Summer_Public/tree/master/examples/rails/dawgs) app as a guide. 
 
 **Story**
 
