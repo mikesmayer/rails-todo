@@ -21,7 +21,7 @@
    * `rails c` can be used to add a new todo item from the console to get you started for testing views.
 * Commit frequently
 
-**Setup!** 
+**Setup and hints!** 
 * We've already added a basic rails app (by using `rails new` ...)  and configured it for use with postgres, 
   so you don't have to do this agian. 
 * We included the nice debugging gems that Phil likes
@@ -29,4 +29,3 @@
 * To create the database, run `rake db:create` 
 * Do not use scaffolding. 
 * `rails c` will drop you into a console and let you explore your app from the inside. 
-
