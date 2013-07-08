@@ -20,6 +20,7 @@
   * Use what you know to write an ActiveRecord migration and tie it to the modle
   * (Hint: Create a todo model that inherits from `ActiveRecord::Base`)
    * `rails c` will drop you into a console and let you explore your app from the inside. 
+   * You can add a new todo item from the console to get you started for testing
 * Commit frequently
 
 **Setup!** 
