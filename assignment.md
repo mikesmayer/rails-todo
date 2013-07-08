@@ -2,7 +2,7 @@
 
 **Objectives:**
 
-* Practice creating a rails CRUD todo!
+* Practice creating a rails CRUD todo using our Dawgs app as a guide. 
 
 **Story**
 
